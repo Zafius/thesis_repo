@@ -1,0 +1,11 @@
+pandapower
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+cvxpy
+numba
+lightsim2grid
+cma
+python-dotenv

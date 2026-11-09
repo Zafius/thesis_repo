@@ -1,0 +1,2 @@
+ISOYear,ISOWeek,Peak[MW],PeakDateTime(UTC),Peak[pu],Min[MW],MinDateTime(UTC),Min[pu]
+2020,53,540.0,2020-12-31 23:00:00,1.0,540.0,2020-12-31 23:00:00,1.0
