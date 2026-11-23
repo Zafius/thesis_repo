@@ -70,5 +70,4 @@ and the preprocessing script are not included).
 
 See [simulation/requirements.txt](simulation/requirements.txt): `pandapower`
 + `lightsim2grid` (3-phase power flow), `pandas`/`numpy` (data handling),
-`scipy`/`cma` (gain optimisation), `matplotlib`/`seaborn` (plotting),
-`python-dotenv` (optional Discord run-notification webhook).
+`scipy`/`cma` (gain optimisation), `matplotlib`/`seaborn` (plotting),.
